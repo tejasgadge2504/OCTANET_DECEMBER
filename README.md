@@ -5,6 +5,7 @@
 Thrilled to share that I've successfully completed the first task of my web development internship at Octanet Services Pvt Ltd.! 🌐✨
 
 👨‍💻 Task Accomplished: Responsive Landing Page Development 🎉
+Have a look at it <a href="https://tejasgadge2504.github.io/OCTANET_DECEMBER/">here</a>
 
 🌐 What I've Achieved:<br>
 ✅ Developed a sleek and responsive landing page.<br>
